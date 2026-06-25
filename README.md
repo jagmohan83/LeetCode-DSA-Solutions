@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -52,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
