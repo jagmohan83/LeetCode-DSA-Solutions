@@ -3,10 +3,12 @@ class Solution {
         int low =0;
         int high = 0;
         for(int w :weights){
-            low = Math.max(low,w);
+            if(low<w){
+                low = w;
+            }
             high += w;
         }
-        int ans = -1;
+        int ans = high;
         while(low<=high){
             int mid = low+(high-low)/2;
            int currentweightonship = 0;
