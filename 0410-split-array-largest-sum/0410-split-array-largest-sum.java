@@ -1,18 +1,18 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int low=0;
-        int high =0;
+        long low=0;
+        long high =0;
        for (int i = 0; i < nums.length; i++) {
             if (nums[i] > low) {
                 low = nums[i];
             }
             high += nums[i];
         }
-        int ans = high;
+        long ans = high;
         while(low<=high){
-            int mid = low+(high-low)/2;
+            long mid = low+(high-low)/2;
             int peaces = 1;
-            int currentsum = 0;
+            long currentsum = 0;
             for(int i = 0; i<nums.length; i++){
                 if(nums[i]+currentsum>mid){
                     peaces++;
@@ -28,6 +28,6 @@ class Solution {
                 low = mid+1;
              } 
         }
-        return ans;
+        return (int) ans;
     }
 }
