@@ -2,9 +2,11 @@ class Solution {
     public int splitArray(int[] nums, int k) {
         int low=0;
         int high =0;
-        for(int n : nums){
-            low = Math.max(low,n);
-            high += n;
+       for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > low) {
+                low = nums[i];
+            }
+            high += nums[i];
         }
         int ans = high;
         while(low<=high){
