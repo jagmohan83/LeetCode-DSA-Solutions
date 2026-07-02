@@ -13,15 +13,15 @@ class Solution {
             int mid = low+(high-low)/2;
            int currentweightonship = 0;
            int currentdaysship = 1;
-            for(int w : weights){
-                if(currentweightonship + w>mid){
-                    currentdaysship++;
-                    currentweightonship = w;
-                }else{
-                    currentweightonship +=w;
-                     
-                }
-            }
+            for (int i = 0; i < weights.length; i++) {
+             int w = weights[i];
+              if (currentweightonship + w > mid) {
+              currentdaysship++;
+             currentweightonship = w;
+            } else {
+                currentweightonship += w;
+             }
+        }
             if(currentdaysship <=days){
                 ans = mid;
                 high = mid-1;
