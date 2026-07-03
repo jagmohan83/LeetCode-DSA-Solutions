@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0125-valid-palindrome](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0231-power-of-two](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
