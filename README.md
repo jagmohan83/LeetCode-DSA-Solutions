@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Math
@@ -148,4 +151,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0015-3sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
