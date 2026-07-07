@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0018-4sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
