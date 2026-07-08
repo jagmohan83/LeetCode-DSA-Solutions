@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Math
