@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0189-rotate-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
