@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
