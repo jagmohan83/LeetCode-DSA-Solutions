@@ -26,7 +26,9 @@ class Solution {
                 }
 
                 
-                maxLen = Math.max(maxLen, currentLen);
+                if(maxLen<currentLen){
+                    maxLen = currentLen;
+                }
             }
         }
 
