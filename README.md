@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
