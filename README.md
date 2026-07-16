@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sorting
@@ -225,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
