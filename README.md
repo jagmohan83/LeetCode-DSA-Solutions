@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0065-valid-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0065-valid-number/) | Hard |
 | [0125-valid-palindrome](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
