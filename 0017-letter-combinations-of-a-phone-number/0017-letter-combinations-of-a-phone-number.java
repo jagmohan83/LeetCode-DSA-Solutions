@@ -18,18 +18,22 @@ class Solution {
         if(digits.isEmpty()){
             return ans;
         }
-        helper("", digits, ans);
+        helper(0, digits, new StringBuilder(), ans);
     return ans;
     }
-    private void helper(String p, String up,  List<String> ans){
-        if(up.isEmpty()){
-            ans.add(p);
+    private void helper(int index, String digits, StringBuilder p, List<String> ans){
+       if (index == digits.length()) {
+            ans.add(p.toString());
             return;
         }
-        int digit = up.charAt(0)-'0';
+        int digit = digits.charAt(index) - '0';
         String letters = MAP[digit];
         for(char ch : letters.toCharArray()){
-            helper(p+ch,up.substring(1),ans);
+            p.append(ch); 
+            
+            helper(index + 1, digits, p, ans); 
+            
+            p.deleteCharAt(p.length() - 1);
         }
     }
         
