@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0200-number-of-islands](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
@@ -251,4 +252,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
