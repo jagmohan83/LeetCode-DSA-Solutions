@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0065-valid-number/) | Hard |
+| [0079-word-search](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0125-valid-palindrome](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -153,12 +155,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0733-flood-fill/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0200-number-of-islands](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -254,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Tree
