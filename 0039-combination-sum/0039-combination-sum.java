@@ -9,15 +9,15 @@ class Solution {
             ans.add(new ArrayList<>(current));
             return;
         }
-        if(index == candidates.length){
+        if(target<0){
             return;
         }
-        if(candidates[index]<=target){
-            current.add(candidates[index]);
-            backtrack(index, candidates, target-candidates[index], current,ans);
+        for(int i =index; i<candidates.length; i++){
+            current.add(candidates[i]);
+            backtrack(i, candidates, target-candidates[i], current,ans);
             current.remove(current.size()-1);
         }
-        backtrack(index+1,candidates,target,current,ans);
+       
 
     } 
         
