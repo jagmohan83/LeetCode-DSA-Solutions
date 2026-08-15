@@ -1,6 +1,6 @@
-
 class Solution {
-      private static final String[] MAP = {
+      public List<String> letterCombinations(String digits) {
+        String[] map = {
         "",    
         "",     
         "abc",  
@@ -12,26 +12,25 @@ class Solution {
         "tuv", 
         "wxyz"  
     };
-    public List<String> letterCombinations(String digits) {
       
         List<String> ans = new ArrayList<>();
         if(digits.isEmpty()){
             return ans;
         }
-        helper(0, digits, new StringBuilder(), ans);
+        helper(0, digits,map, new StringBuilder(), ans);
     return ans;
     }
-    private void helper(int index, String digits, StringBuilder p, List<String> ans){
+    private void helper(int index, String digits,String[] map, StringBuilder p, List<String> ans){
        if (index == digits.length()) {
             ans.add(p.toString());
             return;
         }
         int digit = digits.charAt(index) - '0';
-        String letters = MAP[digit];
-        for(char ch : letters.toCharArray()){
-            p.append(ch); 
+        String letters = map[digit];
+        for(int i =0; i<letters.length(); i++){
+            p.append(letters.charAt(i)); 
             
-            helper(index + 1, digits, p, ans); 
+            helper(index + 1, digits,map, p, ans); 
             
             p.deleteCharAt(p.length() - 1);
         }
