@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0038-count-and-say/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0050-powx-n/) | Medium |
