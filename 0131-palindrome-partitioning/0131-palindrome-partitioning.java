@@ -6,25 +6,27 @@ class Solution {
         
     }
     private void backtrack(int start, String s, List<String> current, List<List<String>> ans){
-        if(start == s.length()){
+        if(start==s.length()){
             ans.add(new ArrayList<>(current));
             return;
         }
-        for(int i =start; i<s.length(); i++){
-            if(isPalindrome(s,start,i)){
-                current.add(s.substring(start,i+1));
-                backtrack(i+1,s,current,ans);
-                current.remove(current.size()-1);
+        for(int i = start;i<s.length();i++){
+            if(!ispalindrome(s,start,i)){
+                continue;
             }
+            current.add(s.substring(start,i+1));
+            backtrack(i+1,s,current,ans);
+            current.remove(current.size()-1);
         }
     }
-    private boolean isPalindrome(String s, int low, int high){
+    private boolean ispalindrome(String s, int low, int high){
         while(low<high){
             if(s.charAt(low) != s.charAt(high)){
                 return false;
             }
             low++;
             high--;
+        
         }
         return true;
     }
