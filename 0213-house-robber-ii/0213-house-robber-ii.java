@@ -13,13 +13,15 @@ class Solution {
         if(start==end){
             return nums[start];
         }
-        int[] dp = new int[end-start+1];
-        dp[0]= nums[start];
-        dp[1] = Math.max(nums[start], nums[start+1]);
+       // int[] dp = new int[end-start+1];
+       int prev2= nums[start];
+        int prev1 = Math.max(nums[start], nums[start+1]);
         for(int i =2; i<=end-start; i++){
-            dp[i]= Math.max(dp[i-1],dp[i-2]+nums[start+i]);
+            int current= Math.max(prev1,prev2+nums[start+i]);
+            prev2= prev1;
+            prev1=current;
         }
-        return dp[end-start];
+        return prev1;
     }
     
         
