@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -313,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0056-merge-intervals/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
