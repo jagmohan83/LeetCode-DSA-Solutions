@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0733-flood-fill](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0733-flood-fill/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -187,11 +189,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0200-number-of-islands](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0733-flood-fill](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0733-flood-fill](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0733-flood-fill/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -210,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0494-target-sum/) | Medium |
@@ -242,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0509-fibonacci-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -350,4 +356,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0518-coin-change-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
