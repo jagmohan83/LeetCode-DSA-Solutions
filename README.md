@@ -374,4 +374,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
