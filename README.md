@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Two Pointers
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -378,4 +380,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Triangulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 <!---LeetCode Topics End-->
