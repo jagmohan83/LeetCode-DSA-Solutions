@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/jagmohan83/LeetCode-DSA-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
